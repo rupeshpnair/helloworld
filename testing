@@ -1,0 +1,2 @@
+#code written for testing 
+write-host "Hello world"
